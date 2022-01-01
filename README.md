@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning front-end.
 - 💬 Ask me about web and other techlonogies.
-- 📫 How to reach me: Gmail/Instagram/Facebook/Github/Twitter.
-- 😄 Pronouns: He/Him.
+- 📫 How to reach me: gmail/instagram/facebook/github/twitter.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love coding and watching movie.
 
 <hr />
