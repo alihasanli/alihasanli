@@ -5,7 +5,7 @@
 <hr />
 
 - 🔭 I’m currently working on nowhere.
-- 🌱 I’m currently learning front-end.
+- 🌱 I’m currently learning full-stack.
 - 💬 Ask me about web and other techlonogies.
 - 📫 How to reach me: gmail/instagram/facebook/github.
 - 😄 Pronouns: he/him.
@@ -13,10 +13,15 @@
 
 <hr />
 
-Connect with me:
+**Connect with me:** 
 
+<a href="https://www.instagram.com/ali.hasanli.dev/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="22" width="22" /></a>
 
+<a href="https://www.facebook.com/profile.php?id=100076740456954" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="22" width="22" /></a>
 
+<a href="ahasanli639.dev@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22" width="22" /></a>
+
+<br />
 <hr />
 
 **Languages and Tools:** 
