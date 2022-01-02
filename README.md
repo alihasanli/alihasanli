@@ -19,7 +19,7 @@
 
 <a href="https://www.facebook.com/profile.php?id=100076740456954" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="22" width="22" /></a>
 
-<a background="white" href="ahasanli639.dev@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22" width="22" /></a>
+<a href="ahasanli639.dev@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22" width="22" /></a>
 
 <br />
 <hr />
@@ -36,4 +36,5 @@
 <hr />
 
 <img align="left" alt="Ali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alihasanli&show_icons=true&hide_border=true" />
+<br />
 <img align="left" alt="Ali's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasanli" />
