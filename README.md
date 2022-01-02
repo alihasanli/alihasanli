@@ -19,7 +19,7 @@
 
 <a href="https://www.facebook.com/profile.php?id=100076740456954" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="22" width="22" /></a>
 
-<a href="ahasanli639.dev@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22" width="22" /></a>
+<a background="white" href="ahasanli639.dev@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22" width="22" /></a>
 
 <br />
 <hr />
