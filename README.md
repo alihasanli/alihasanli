@@ -13,7 +13,7 @@
 
 <hr />
 
-**Connect with me:** 
+**Contact with me:** 
 
 <a href="https://www.instagram.com/ali.hasanli.dev/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="22" width="22" /></a>
 
