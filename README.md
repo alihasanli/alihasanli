@@ -15,7 +15,7 @@
 
 **Contact with me:** 
 
-<a href="https://www.instagram.com/ali.hasanli.dev/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="22" width="22" /></a>
+<a href="https://www.instagram.com/ali.hasanli03/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="22" width="22" /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100076740456954" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="22" width="22" /></a>
 
