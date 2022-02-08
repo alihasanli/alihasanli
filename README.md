@@ -37,9 +37,8 @@
 <br />
 <hr />
 
-<img align="left" alt="Ali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alihasanli&show_icons=true&hide_border=true" />
-<br />
-<img align="left" alt="Ali's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasanli" />
-| <a href="https://github.com/alihasanli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alihasanli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ali's github stats" /></a> | <a href="https://github.com/alihasanli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasanli&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<a href="https://github.com/alihasanli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/apiusername=alihasanli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ali's github stats" /></a>  
+</br>
+<a href="https://github.com/alihasanli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasanli&layout=compact&theme=buefy&hide_border=true" /></a>
 
