@@ -4,11 +4,9 @@
 
 <hr />
 
-- 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning full-stack.
 - 💬 Ask me about web and other technologies.
 - 📫 How to reach me: gmail/instagram/facebook/github.
-- ⚡ Fun fact: I love coding and watching movie.
 
 <hr />
 
